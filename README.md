@@ -1,3 +1,4 @@
 # exercice-repo
-Repo made for exercices 
-Resolve the conflict!
+This project will contains...
+Repository made for exercises.
+Hello, again!!!!
