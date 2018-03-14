@@ -3,8 +3,7 @@ This project will contains...
 Repository made for exercises.
 Edited again in master branch..
 
-### Problem 1.                
-* Character Stats
+### Problem 1. Character Stats          
 
 Write a program, which **displays information** about a video game character. You will receive
 their **name**, **current health**, **maximum
@@ -12,125 +11,48 @@ health**, **current energy** and **maximum energy **on separate lines. The **cur
 
 #### Examples
 
- 
 
-**Input**
+**Input**|**Output**
+:-----|:-----:|
+Mayro|Name: Mayro|
+5 | Health: ||||||.....| |
+10
+9 |Energy: ||||||||||.| |
+10
 
- 
-
-**Output**
-
- 
 
 ** **
 
  
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-Mayro
-
-5
-
+**Input**|**Output**
+:-----|:-----:|
+Bauser|Name: Bauser|
+10 | Health: |||||||||||| |
+10
+10 |Energy: |||||||||||| |
 10
 
-9
-
-10
-
- 
-
-Name: Mayro
-
-Health: ||||||.....|
-
-Energy: ||||||||||.|
-
- 
-
-Bauser
-
-10
-
-10
-
-10
-
-10
-
- 
-
-Name: Bauser
-
-Health: ||||||||||||
-
-Energy: ||||||||||||
-
- 
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
 
 ** **
 
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-Loogi
-
-8
-
+**Input**|**Output**
+:-----|:-----:|
+Loogi|Name: Loogi|
+8 | Health: |||||||||............ |
 20
-
-2
-
+2 |Energy: |||............ |
 14
 
- 
 
-Name: Loogi
+** **
 
-Health: |||||||||............|
 
-Energy:
-  |||............|
-
- 
-
-Toad
-
-0
-
+**Input**|**Output**
+:-----|:-----:|
+Toad|Name: Toad|
+0 | Health: |.....| |
 5
-
-0
-
+0 |Energy: .......... |
 10
 
- 
 
-Name: Toad
-
-Health: |.....|
-
-Energy: |..........|
